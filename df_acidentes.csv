@@ -1,0 +1,1478 @@
+Nome;Codigo;Acidentes de transito
+Alto Paraíso;110040;1
+Ariquemes;110002;4
+Buritis;110045;1
+Candeias do Jamari;110080;24
+Cujubim;110094;2
+Guajará-Mirim;110010;5
+Itapuã do Oeste;110110;5
+Jaru;110011;1
+Ji-Paraná;110012;1
+Machadinho D'Oeste;110013;1
+Monte Negro;110140;1
+Nova Mamoré;110033;7
+Novo Horizonte do Oeste;110050;1
+Ouro Preto do Oeste;110015;3
+Pimenta Bueno;110018;1
+Porto Velho;110020;900
+Presidente Médici;110025;1
+Rolim de Moura;110028;3
+Theobroma;110160;1
+Acrelândia;120001;18
+Assis Brasil;120005;3
+Brasiléia;120010;12
+Bujari;120013;16
+Capixaba;120017;13
+Epitaciolândia;120025;1
+Feijó;120030;9
+Jordão;120032;2
+Manoel Urbano;120034;7
+Plácido de Castro;120038;29
+Porto Acre;120080;43
+Rio Branco;120040;1160
+Santa Rosa do Purus;120043;3
+Sena Madureira;120050;27
+Senador Guiomard;120045;28
+Tarauacá;120060;1
+Xapuri;120070;8
+Barcelos;130040;1
+Barreirinha;130050;1
+Boca do Acre;130070;11
+Careiro;130110;1
+Humaitá;130170;7
+Itamarati;130195;1
+Lábrea;130240;1
+Manaus;130260;1
+Pauini;130350;5
+Presidente Figueiredo;130353;1
+Alto Alegre;140005;31
+Amajari;140002;19
+Boa Vista;140010;1567
+Bonfim;140015;22
+Cantá;140017;55
+Caracaraí;140020;7
+Caroebe;140023;4
+Iracema;140028;3
+Mucajaí;140030;16
+Normandia;140040;7
+Pacaraima;140045;4
+Rorainópolis;140047;6
+São João da Baliza;140050;4
+São Luiz;140060;2
+Uiramutã;140070;9
+Abaetetuba;150010;26
+Acará;150020;56
+Afuá;150030;28
+Água Azul do Norte;150034;2
+Almeirim;150050;3
+Anajás;150070;4
+Ananindeua;150080;1078
+Augusto Corrêa;150090;4
+Aurora do Pará;150095;7
+Bagre;150110;1
+Baião;150120;2
+Barcarena;150130;66
+Belém;150140;3645
+Benevides;150150;30
+Bonito;150160;4
+Bragança;150170;12
+Breves;150180;16
+Bujaru;150190;14
+Cachoeira do Arari;150200;3
+Cachoeira do Piriá;150195;4
+Cametá;150210;4
+Capanema;150220;16
+Capitão Poço;150230;8
+Castanhal;150240;42
+Chaves;150250;14
+Colares;150260;3
+Concórdia do Pará;150275;8
+Curralinho;150280;2
+Curuá;150285;2
+Curuçá;150290;17
+Eldorado dos Carajás;150295;1
+Garrafão do Norte;150307;8
+Igarapé-Açu;150320;11
+Igarapé-Miri;150330;11
+Inhangapi;150340;2
+Ipixuna do Pará;150345;8
+Irituia;150350;10
+Itaituba;150360;1
+Mãe do Rio;150405;13
+Magalhães Barata;150410;1
+Marabá;150420;2
+Maracanã;150430;4
+Marapanim;150440;9
+Marituba;150442;67
+Melgaço;150450;4
+Mocajuba;150460;3
+Moju;150470;26
+Monte Alegre;150480;1
+Muaná;150490;4
+Nova Esperança do Piriá;150495;3
+Nova Timboteua;150500;2
+Oeiras do Pará;150520;5
+Ourém;150540;6
+Paragominas;150550;2
+Parauapebas;150553;2
+Pau D'Arco;150555;1
+Peixe-Boi;150560;1
+Ponta de Pedras;150570;5
+Portel;150580;3
+Porto de Moz;150590;1
+Primavera;150610;1
+Quatipuru;150611;2
+Salinópolis;150620;10
+Salvaterra;150630;8
+Santa Bárbara do Pará;150635;9
+Santa Cruz do Arari;150640;1
+Santa Isabel do Pará;150650;18
+Santa Luzia do Pará;150655;3
+Santa Maria do Pará;150660;5
+Santarém;150680;1
+Santo Antônio do Tauá;150700;21
+São Caetano de Odivelas;150710;4
+São Domingos do Capim;150720;8
+São Francisco do Pará;150740;2
+São João de Pirabas;150747;3
+São Miguel do Guamá;150760;16
+São Sebastião da Boa Vista;150770;3
+Soure;150790;9
+Tailândia;150795;18
+Terra Alta;150796;5
+Tomé-Açu;150800;9
+Tracuateua;150803;4
+Tucuruí;150810;2
+Ulianópolis;150812;8
+Vigia;150820;25
+Viseu;150830;3
+Xinguara;150840;1
+Amapá;160010;11
+Calçoene;160020;3
+Cutias;160021;10
+Ferreira Gomes;160023;15
+Itaubal;160025;7
+Laranjal do Jari;160027;14
+Macapá;160030;2629
+Mazagão;160040;35
+Oiapoque;160050;13
+Pedra Branca do Amapari;160015;21
+Porto Grande;160053;40
+Pracuúba;160055;3
+Santana;160060;52
+Serra do Navio;160005;5
+Tartarugalzinho;160070;12
+Almas;170040;1
+Alvorada;170070;1
+Aparecida do Rio Negro;170110;7
+Araguaína;170210;1
+Barrolândia;170310;1
+Bom Jesus do Tocantins;170330;1
+Caseara;170390;1
+Chapada de Areia;170460;1
+Colméia;171670;2
+Conceição do Tocantins;170560;1
+Cristalândia;170610;4
+Dianópolis;170700;9
+Divinópolis do Tocantins;170710;2
+Dois Irmãos do Tocantins;170720;3
+Fátima;170755;1
+Formoso do Araguaia;170820;1
+Guaraí;170930;2
+Itacajá;171050;1
+Lagoa do Tocantins;171195;5
+Lajeado;171200;13
+Lavandeira;171215;1
+Marianópolis do Tocantins;171250;5
+Miracema do Tocantins;171320;4
+Monte do Carmo;171360;2
+Novo Acordo;171510;1
+Palmas;172100;1198
+Palmeirópolis;171575;1
+Paraíso do Tocantins;171610;6
+Paranã;171620;2
+Pedro Afonso;171650;4
+Pium;171750;2
+Ponte Alta do Tocantins;171790;3
+Porto Nacional;171820;30
+Presidente Kennedy;171840;1
+Santa Maria do Tocantins;171888;2
+Santa Rosa do Tocantins;171890;2
+Santa Tereza do Tocantins;171900;2
+São Félix do Tocantins;172015;2
+Silvanópolis;172065;1
+Taipas do Tocantins;172093;1
+Tupirama;172125;1
+Açailândia;210005;1
+Anajatuba;210070;5
+Arari;210100;4
+Axixá;210110;2
+Bacabal;210120;3
+Bacabeira;210125;7
+Barreirinhas;210170;6
+Bequimão;210190;2
+Brejo;210210;7
+Buriti;210220;1
+Buriticupu;210232;1
+Cajari;210250;1
+Cândido Mendes;210260;1
+Cantanhede;210270;1
+Caxias;210300;3
+Cedral;210310;1
+Chapadinha;210320;3
+Codó;210330;2
+Coelho Neto;210340;1
+Conceição do Lago-Açu;210355;2
+Cururupu;210370;1
+Humberto de Campos;210500;4
+Icatu;210510;3
+Imperatriz;210530;3
+Itapecuru Mirim;210540;4
+Lago Verde;210590;2
+Magalhães de Almeida;210630;1
+Maranhãozinho;210637;1
+Matinha;210650;1
+Matões;210660;4
+Miranda do Norte;210675;3
+Mirinzal;210680;1
+Monção;210690;1
+Morros;210710;5
+Olho d'Água das Cunhãs;210740;1
+Olinda Nova do Maranhão;210745;2
+Paço do Lumiar;210750;59
+Parnarama;210780;8
+Pastos Bons;210800;1
+Pedreiras;210820;2
+Penalva;210830;1
+Peri Mirim;210840;2
+Pinheiro;210860;4
+Pio XII;210870;1
+Presidente Dutra;210910;1
+Presidente Juscelino;210920;2
+Presidente Sarney;210927;1
+Presidente Vargas;210930;2
+Raposa;210945;10
+Rosário;210960;7
+Santa Inês;210990;5
+Santa Luzia;211000;1
+Santa Rita;211020;1
+São Bento;211050;1
+São Domingos do Maranhão;211070;1
+São João Batista;211100;1
+São João dos Patos;211110;1
+São José de Ribamar;211120;84
+São Luís;211130;1275
+São Luís Gonzaga do Maranhão;211140;1
+Serrano do Maranhão;211178;1
+Timbiras;211210;1
+Timon;211220;55
+Tufilândia;211227;2
+Tuntum;211230;1
+Turiaçu;211240;1
+Urbano Santos;211260;1
+Vargem Grande;211270;5
+Viana;211280;7
+Vila Nova dos Martírios;211285;1
+Vitória do Mearim;211290;4
+Zé Doca;211400;1
+Acauã;220005;1
+Agricolândia;220010;1
+Água Branca;220020;8
+Alto Longá;220030;1
+Altos;220040;25
+Alvorada do Gurguéia;220045;1
+Amarante;220050;5
+Angical do Piauí;220060;2
+Anísio de Abreu;220070;1
+Aroazes;220090;1
+Assunção do Piauí;220105;2
+Baixa Grande do Ribeiro;220115;1
+Barras;220120;9
+Batalha;220150;3
+Beneditinos;220160;4
+Betânia do Piauí;220173;2
+Bocaina;220180;1
+Bonfim do Piauí;220192;1
+Boqueirão do Piauí;220194;3
+Cabeceiras do Piauí;220205;2
+Caldeirão Grande do Piauí;220209;1
+Campo Grande do Piauí;220213;4
+Campo Largo do Piauí;220217;2
+Campo Maior;220220;19
+Canto do Buriti;220230;1
+Capitão de Campos;220240;6
+Capitão Gervásio Oliveira;220245;1
+Castelo do Piauí;220260;3
+Cocal;220270;1
+Coivaras;220273;1
+Colônia do Gurguéia;220275;2
+Conceição do Canindé;220280;1
+Coronel José Dias;220285;1
+Cristalândia do Piauí;220300;2
+Curimatá;220320;2
+Curralinhos;220325;4
+Demerval Lobão;220330;10
+Elesbão Veloso;220350;2
+Eliseu Martins;220360;1
+Esperantina;220370;2
+Floriano;220390;1
+Francinópolis;220400;1
+Fronteiras;220430;1
+Inhuma;220470;2
+Itainópolis;220500;2
+Itaueira;220510;2
+Jardim do Mulato;220525;4
+Jatobá do Piauí;220527;2
+Jerumenha;220530;1
+Joca Marques;220545;1
+José de Freitas;220550;14
+Juazeiro do Piauí;220551;1
+Lagoa Alegre;220555;1
+Lagoa de São Francisco;220557;2
+Lagoa do Piauí;220558;1
+Luzilândia;220580;1
+Manoel Emídio;220590;1
+Marcolândia;220595;1
+Matias Olímpio;220610;1
+Miguel Alves;220620;5
+Miguel Leão;220630;1
+Monsenhor Gil;220640;5
+Morro do Chapéu do Piauí;220667;2
+Nazaré do Piauí;220670;1
+Nazária;220672;11
+Nossa Senhora dos Remédios;220680;1
+Novo Oriente do Piauí;220690;1
+Oeiras;220700;1
+Padre Marcos;220720;1
+Pajeú do Piauí;220735;1
+Palmeirais;220750;2
+Parnaíba;220770;1
+Pau D'Arco do Piauí;220779;2
+Paulistana;220780;1
+Pedro II;220790;3
+Picos;220800;3
+Pimenteiras;220810;4
+Piracuruca;220830;2
+Piripiri;220840;9
+Porto;220850;1
+Porto Alegre do Piauí;220855;1
+Prata do Piauí;220860;2
+Regeneração;220880;4
+Rio Grande do Piauí;220900;1
+Santa Cruz dos Milagres;220915;3
+Santo Antônio de Lisboa;220940;1
+São Félix do Piauí;220960;3
+São Francisco do Piauí;220970;1
+São Gonçalo do Piauí;220980;1
+São João da Serra;220990;1
+São João do Arraial;220997;1
+São João do Piauí;221000;3
+São Miguel da Baixa Grande;221038;3
+São Miguel do Fidalgo;221039;1
+São Miguel do Tapuio;221040;3
+São Pedro do Piauí;221050;3
+São Raimundo Nonato;221060;4
+Sebastião Barros;221062;1
+Sigefredo Pacheco;221065;4
+Simplício Mendes;221080;1
+Socorro do Piauí;221090;1
+Teresina;221100;1452
+União;221110;18
+Valença do Piauí;221130;2
+Várzea Grande;221140;1
+Wall Ferraz;221170;1
+Acarape;230015;6
+Acaraú;230020;31
+Acopiara;230030;2
+Alcântaras;230050;27
+Amontada;230075;2
+Apuiarés;230090;2
+Aquiraz;230100;14
+Aracati;230110;4
+Aracoiaba;230120;5
+Aratuba;230140;1
+Arneiroz;230150;3
+Banabuiú;230185;1
+Barreira;230195;7
+Baturité;230210;7
+Beberibe;230220;7
+Bela Cruz;230230;16
+Boa Viagem;230240;4
+Camocim;230260;18
+Campos Sales;230270;1
+Canindé;230280;12
+Capistrano;230290;1
+Caridade;230300;3
+Cariré;230310;28
+Carnaubal;230340;4
+Cascavel;230350;11
+Catarina;230360;1
+Catunda;230365;7
+Caucaia;230370;81
+Cedro;230380;1
+Chaval;230390;6
+Chorozinho;230395;3
+Coreaú;230400;41
+Crateús;230410;11
+Crato;230420;1
+Croatá;230423;5
+Cruz;230425;23
+Eusébio;230428;9
+Forquilha;230435;63
+Fortaleza;230440;2241
+Fortim;230445;1
+Frecheirinha;230450;30
+General Sampaio;230460;2
+Graça;230465;18
+Granja;230470;17
+Groaíras;230490;25
+Guaiúba;230495;5
+Guaraciaba do Norte;230500;8
+Guaramiranga;230510;3
+Hidrolândia;230520;6
+Horizonte;230523;15
+Ibiapina;230530;7
+Icó;230540;3
+Iguatu;230550;3
+Independência;230560;3
+Ipu;230580;6
+Ipueiras;230590;9
+Iracema;230600;1
+Irauçuba;230610;26
+Itaiçaba;230620;1
+Itaitinga;230625;7
+Itapagé;230630;8
+Itapipoca;230640;10
+Itapiúna;230650;1
+Itarema;230655;32
+Itatira;230660;2
+Jaguaretama;230670;1
+Jaguaribara;230680;2
+Jaguaribe;230690;6
+Jaguaruana;230700;1
+Jijoca de Jericoacoara;230725;12
+Juazeiro do Norte;230730;1
+Jucás;230740;2
+Lavras da Mangabeira;230750;1
+Limoeiro do Norte;230760;7
+Madalena;230763;1
+Maracanaú;230765;64
+Maranguape;230770;27
+Marco;230780;16
+Martinópole;230790;10
+Massapê;230800;67
+Meruoca;230820;30
+Milhã;230835;1
+Mombaça;230850;1
+Monsenhor Tabosa;230860;5
+Morada Nova;230870;7
+Moraújo;230880;8
+Morrinhos;230890;19
+Mucambo;230900;18
+Mulungu;230910;4
+Nova Russas;230930;5
+Novo Oriente;230940;5
+Ocara;230945;9
+Pacajus;230960;18
+Pacatuba;230970;8
+Pacoti;230980;6
+Pacujá;230990;9
+Paracuru;231020;5
+Paraipaba;231025;4
+Parambu;231030;2
+Pedra Branca;231050;2
+Pentecoste;231070;3
+Pereiro;231080;1
+Pindoretama;231085;4
+Piquet Carneiro;231090;1
+Pires Ferreira;231095;2
+Quiterianópolis;231126;6
+Quixadá;231130;8
+Quixelô;231135;1
+Quixeramobim;231140;7
+Quixeré;231150;2
+Redenção;231160;2
+Reriutaba;231170;9
+Russas;231180;6
+Saboeiro;231190;1
+Santa Quitéria;231220;13
+Santana do Acaraú;231200;39
+Santana do Cariri;231210;1
+São Benedito;231230;6
+São Gonçalo do Amarante;231240;5
+São João do Jaguaribe;231250;1
+Senador Pompeu;231270;3
+Senador Sá;231280;15
+Sobral;231290;953
+Solonópole;231300;2
+Tabuleiro do Norte;231310;3
+Tamboril;231320;6
+Tauá;231330;3
+Tejuçuoca;231335;1
+Tianguá;231340;15
+Trairi;231350;6
+Ubajara;231360;7
+Umirim;231375;4
+Uruburetama;231380;1
+Uruoca;231390;15
+Varjota;231395;19
+Viçosa do Ceará;231410;10
+Acari;240010;1
+Alexandria;240050;2
+Angicos;240080;2
+Antônio Martins;240090;1
+Areia Branca;240110;1
+Arês;240120;2
+Augusto Severo;240130;1
+Baía Formosa;240140;8
+Barcelona;240150;2
+Bento Fernandes;240160;1
+Bodó;240165;1
+Bom Jesus;240170;2
+Brejinho;240180;3
+Caiçara do Norte;240185;2
+Caiçara do Rio do Vento;240190;3
+Caicó;240200;3
+Campo Redondo;240210;3
+Canguaretama;240220;6
+Carnaúba dos Dantas;240240;4
+Carnaubais;240250;1
+Ceará-Mirim;240260;42
+Coronel Ezequiel;240280;4
+Cruzeta;240300;3
+Currais Novos;240310;8
+Espírito Santo;240350;2
+Extremoz;240360;45
+Fernando Pedroza;240375;1
+Galinhos;240410;1
+Goianinha;240420;3
+Grossos;240440;1
+Guamaré;240450;6
+Ielmo Marinho;240460;9
+Ipanguaçu;240470;1
+Jaçanã;240500;1
+Jandaíra;240510;1
+Japi;240540;1
+Jardim do Seridó;240570;1
+João Câmara;240580;16
+Jucurutu;240610;4
+Jundiá;240615;2
+Lagoa d'Anta;240620;4
+Lagoa de Pedras;240630;1
+Lagoa de Velhos;240640;3
+Lagoa Nova;240650;2
+Lagoa Salgada;240660;4
+Lajes Pintadas;240680;1
+Macaíba;240710;24
+Macau;240720;8
+Maxaranguape;240750;15
+Montanhas;240770;2
+Monte Alegre;240780;5
+Mossoró;240800;1
+Natal;240810;877
+Nísia Floresta;240820;5
+Nova Cruz;240830;9
+Parazinho;240880;1
+Parelhas;240890;1
+Parnamirim;240325;66
+Passa e Fica;240910;1
+Passagem;240920;1
+Pau dos Ferros;240940;1
+Pedro Avelino;240970;1
+Pedro Velho;240980;4
+Pendências;240990;1
+Poço Branco;241010;6
+Serra Caiada (Presidente Juscelino);241030;2
+Pureza;241040;12
+Riachuelo;241090;2
+Rio do Fogo;240895;5
+Santa Cruz;241120;4
+Santa Maria;240933;3
+Santana do Matos;241140;1
+Santo Antônio;241150;5
+São Gonçalo do Amarante;241200;58
+São José de Mipibu;241220;15
+São José do Campestre;241230;2
+São Miguel;241250;4
+São Paulo do Potengi;241260;4
+São Pedro;241270;1
+São Rafael;241280;1
+São Tomé;241290;5
+São Vicente;241300;2
+Senador Georgino Avelino;241320;2
+Serra de São Bento;241330;2
+Serra do Mel;241335;2
+Serrinha;241350;5
+Sítio Novo;241370;1
+Taipu;241390;9
+Tangará;241400;6
+Tibau do Sul;241420;3
+Timbaúba dos Batistas;241430;1
+Touros;241440;21
+Umarizal;241450;1
+Vera Cruz;241480;5
+Água Branca;250010;1
+Alagoinha;250050;3
+Alhandra;250060;10
+Araçagi;250080;1
+Araruna;250100;2
+Areia;250110;2
+Aroeiras;250130;1
+Baía da Traição;250140;5
+Bananeiras;250150;1
+Bayeux;250180;97
+Belém;250190;2
+Boa Vista;250215;2
+Caaporã;250300;12
+Cabedelo;250320;53
+Caiçara;250360;2
+Cajazeiras;250370;2
+Caldas Brandão;250380;6
+Campina Grande;250400;2
+Capim;250403;5
+Conceição;250440;1
+Conde;250460;41
+Cruz do Espírito Santo;250490;11
+Cuité;250510;2
+Cuité de Mamanguape;250523;3
+Curral de Cima;250527;3
+Dona Inês;250570;1
+Guarabira;250630;8
+Gurinhém;250640;5
+Itabaiana;250690;12
+Itaporanga;250700;1
+Itapororoca;250710;9
+Jacaraú;250730;5
+João Pessoa;250750;1329
+Juripiranga;250790;7
+Juru;250800;1
+Lagoa de Dentro;250820;1
+Lucena;250860;12
+Mamanguape;250890;25
+Marcação;250905;5
+Mari;250910;9
+Massaranduba;250920;1
+Mataraca;250930;20
+Mulungu;250980;1
+Natuba;250990;1
+Patos;251080;1
+Paulista;251090;3
+Pedras de Fogo;251120;8
+Pedro Régis;251272;4
+Pilar;251150;6
+Pilões;251160;3
+Pilõezinhos;251170;1
+Pirpirituba;251180;4
+Pitimbu;251190;18
+Pombal;251210;2
+Riachão do Poço;251276;2
+Rio Tinto;251290;15
+Salgado de São Félix;251310;5
+Santa Cecília;251315;1
+Santa Luzia;251340;1
+Santa Rita;251370;99
+Santo André;251385;1
+São Bento;251390;1
+São João do Cariri;251400;1
+São José dos Ramos;251445;2
+São Miguel de Taipu;251500;6
+Sapé;251530;28
+Serra da Raiz;251560;2
+Serraria;251590;2
+Sertãozinho;251593;1
+Sobrado;251597;5
+Sousa;251620;2
+Várzea;251710;1
+Abreu e Lima;260005;97
+Água Preta;260040;2
+Águas Belas;260050;1
+Aliança;260070;4
+Araçoiaba;260105;6
+Araripina;260110;1
+Belo Jardim;260170;1
+Bezerros;260190;3
+Bom Conselho;260210;1
+Bom Jardim;260220;2
+Bonito;260230;1
+Cabo de Santo Agostinho;260290;76
+Cachoeirinha;260310;1
+Caetés;260320;1
+Camaragibe;260345;22
+Camutanga;260360;1
+Capoeiras;260380;1
+Carpina;260400;6
+Caruaru;260410;7
+Chã Grande;260450;4
+Cortês;260480;1
+Cupira;260500;1
+Custódia;260510;3
+Escada;260520;11
+Feira Nova;260540;2
+Ferreiros;260550;2
+Frei Miguelinho;260580;1
+Gameleira;260590;4
+Garanhuns;260600;5
+Glória do Goitá;260610;8
+Goiana;260620;10
+Gravatá;260640;6
+Iati;260650;2
+Ibimirim;260660;1
+Igarassu;260680;33
+Ilha de Itamaracá;260760;12
+Ipojuca;260720;15
+Itambé;260765;5
+Itapissuma;260775;8
+Itaquitinga;260780;1
+Jaboatão dos Guararapes;260790;1297
+João Alfredo;260810;1
+Lagoa de Itaenga;260850;2
+Lagoa do Carro;260845;1
+Lagoa Grande;260875;1
+Limoeiro;260890;4
+Macaparana;260900;1
+Moreno;260940;55
+Nazaré da Mata;260950;4
+Olinda;260960;2105
+Orobó;260970;2
+Palmares;261000;4
+Passira;261050;2
+Paudalho;261060;3
+Paulista;261070;746
+Pesqueira;261090;4
+Poção;261120;2
+Pombos;261130;2
+Primavera;261140;3
+Recife;261160;1060
+Ribeirão;261180;4
+Rio Formoso;261190;4
+Santa Cruz;261245;1
+Santa Cruz do Capibaribe;261250;2
+São Bento do Una;261300;1
+São Caitano;261310;1
+São Lourenço da Mata;261370;16
+São Vicente Ferrer;261380;4
+Serra Talhada;261390;1
+Sirinhaém;261420;5
+Surubim;261450;3
+Tamandaré;261485;3
+Timbaúba;261530;12
+Tupanatinga;261580;1
+Venturosa;261600;1
+Vicência;261630;2
+Vitória de Santo Antão;261640;16
+Xexéu;261650;1
+Anadia;270020;1
+Atalaia;270040;3
+Barra de Santo Antônio;270050;2
+Barra de São Miguel;270060;2
+Boca da Mata;270100;9
+Branquinha;270110;2
+Cajueiro;270130;3
+Campestre;270135;1
+Campo Grande;270150;1
+Capela;270170;1
+Chã Preta;270190;1
+Colônia Leopoldina;270210;2
+Coqueiro Seco;270220;3
+Coruripe;270230;2
+Flexeiras;270280;3
+Ibateguara;270300;3
+Japaratinga;270360;3
+Joaquim Gomes;270380;4
+Maceió;270430;592
+Mar Vermelho;270490;3
+Maragogi;270450;6
+Marechal Deodoro;270470;32
+Matriz de Camaragibe;270510;4
+Messias;270520;7
+Murici;270550;7
+Novo Lino;270560;2
+Paripueira;270644;1
+Passo de Camaragibe;270650;3
+Paulo Jacinto;270660;1
+Penedo;270670;1
+Pilar;270690;12
+Porto Calvo;270730;2
+Porto de Pedras;270740;3
+Rio Largo;270770;25
+Roteiro;270780;2
+Santa Luzia do Norte;270790;9
+Santana do Ipanema;270800;1
+Santana do Mundaú;270810;1
+São Brás;270820;1
+São José da Laje;270830;2
+São Luís do Quitunde;270850;6
+São Miguel dos Campos;270860;8
+São Miguel dos Milagres;270870;1
+Satuba;270890;10
+União dos Palmares;270930;3
+Viçosa;270940;2
+Aquidabã;280020;13
+Aracaju;280030;1103
+Arauá;280040;2
+Areia Branca;280050;6
+Barra dos Coqueiros;280060;27
+Boquim;280067;3
+Brejo Grande;280070;3
+Campo do Brito;280100;2
+Canhoba;280110;1
+Canindé de São Francisco;280120;3
+Capela;280130;14
+Carmópolis;280150;11
+Cristinápolis;280170;3
+Cumbe;280190;1
+Divina Pastora;280200;3
+Estância;280210;15
+Feira Nova;280220;2
+Frei Paulo;280230;7
+Gararu;280240;2
+Gracho Cardoso;280260;1
+Ilha das Flores;280270;2
+Itabaiana;280290;21
+Itabaianinha;280300;14
+Itaporanga d'Ajuda;280320;21
+Japaratuba;280330;11
+Japoatã;280340;2
+Lagarto;280350;10
+Laranjeiras;280360;26
+Malhada dos Bois;280380;1
+Malhador;280390;1
+Maruim;280400;16
+Moita Bonita;280410;1
+Monte Alegre de Sergipe;280420;2
+Muribeca;280430;3
+Neópolis;280440;3
+Nossa Senhora Aparecida;280445;2
+Nossa Senhora da Glória;280450;4
+Nossa Senhora das Dores;280460;9
+Nossa Senhora do Socorro;280480;224
+Pacatuba;280490;2
+Pirambu;280530;5
+Poço Redondo;280540;2
+Poço Verde;280550;7
+Porto da Folha;280560;3
+Propriá;280570;9
+Riachão do Dantas;280580;3
+Riachuelo;280590;3
+Ribeirópolis;280600;3
+Rosário do Catete;280610;2
+Salgado;280620;5
+Santa Luzia do Itanhy;280630;3
+Santa Rosa de Lima;280650;2
+Santo Amaro das Brotas;280660;10
+São Cristóvão;280670;113
+São Domingos;280680;3
+São Francisco;280690;1
+Simão Dias;280710;8
+Siriri;280720;4
+Telha;280730;1
+Tobias Barreto;280740;2
+Tomar do Geru;280750;6
+Umbaúba;280760;9
+Abaré;290020;1
+Adustina;290035;5
+Alcobaça;290080;1
+Amargosa;290100;2
+Amélia Rodrigues;290110;3
+América Dourada;290115;1
+Antas;290160;1
+Araci;290210;2
+Baixa Grande;290260;1
+Banzaê;290265;1
+Barra;290270;2
+Barrocas;290327;2
+Bonito;290405;1
+Cachoeira;290490;2
+Caetité;290520;1
+Camaçari;290570;8
+Candeias;290650;2
+Cansanção;290680;1
+Capim Grosso;290687;1
+Catu;290750;1
+Conceição da Feira;290820;1
+Conceição do Coité;290840;2
+Conceição do Jacuípe;290850;2
+Coronel João Sá;290920;5
+Correntina;290930;1
+Crisópolis;290960;1
+Dias d'Ávila;291005;5
+Euclides da Cunha;291070;1
+Fátima;291075;2
+Feira de Santana;291080;2
+Glória;291140;1
+Governador Mangabeira;291160;1
+Guanambi;291170;1
+Iraquara;291440;1
+Itaparica;291610;1
+Itapicuru;291650;2
+Jacobina;291750;2
+Jaguaripe;291780;1
+Jeremoabo;291810;1
+Jiquiriçá;291820;2
+Lauro de Freitas;291920;18
+Macururé;291990;1
+Mairi;292010;1
+Mata de São João;292100;2
+Miguel Calmon;292120;2
+Monte Santo;292150;1
+Muritiba;292230;1
+Nordestina;292265;1
+Nova Viçosa;292300;1
+Novo Horizonte;292303;1
+Olindina;292310;1
+Paripiranga;292380;2
+Paulo Afonso;292400;2
+Pedro Alexandre;292420;2
+Pojuca;292520;1
+Queimadas;292580;1
+Rafael Jambeiro;292595;1
+Ribeira do Amparo;292650;1
+Ribeira do Pombal;292660;1
+Rio Real;292700;8
+Salvador;292740;839
+Santa Bárbara;292750;1
+Santa Brígida;292760;1
+Santa Luzia;292805;1
+Santo Amaro;292860;2
+São Felipe;292910;1
+São Sebastião do Passé;292950;2
+Saúde;292980;1
+Serrinha;293050;1
+Simões Filho;293070;16
+Sítio do Quinto;293076;1
+Umburanas;293245;1
+Valença;293290;3
+Valente;293300;3
+Várzea da Roça;293305;1
+Vera Cruz;293320;2
+Abadia dos Dourados;310010;1
+Abaeté;310020;1
+Abre Campo;310030;2
+Água Boa;310060;1
+Araxá;310400;1
+Arinos;310450;1
+Baldim;310500;1
+Belo Horizonte;310620;1089
+Belo Oriente;310630;1
+Betim;310670;13
+Brumadinho;310900;1
+Buritizeiro;310940;1
+Caeté;311000;1
+Cambuí;311060;1
+Cataguases;311530;1
+Congonhas;311800;1
+Contagem;311860;47
+Corinto;311910;1
+Coronel Fabriciano;311940;1
+Curvelo;312090;1
+Divinolândia de Minas;312220;1
+Esmeraldas;312410;4
+Felixlândia;312570;1
+Formoso;312620;1
+Fronteira;312700;3
+Ibirité;312980;4
+Igarapé;313010;2
+Inhapim;313090;1
+Itabirito;313190;4
+Itajubá;313240;1
+Jaboticatubas;313460;1
+Jacutinga;313490;1
+Josenópolis;313657;1
+Juatuba;313665;2
+Lagoa Santa;313760;15
+Mantena;313960;1
+Matozinhos;314110;1
+Minas Novas;314180;1
+Monte Sião;314340;1
+Munhoz;314380;1
+Nova Lima;314480;7
+Nova União;313660;1
+Ouro Branco;314590;1
+Ouro Preto;314610;1
+Pará de Minas;314710;1
+Paracatu;314700;2
+Pedra do Indaiá;314890;1
+Pedro Leopoldo;314930;10
+Presidente Juscelino;315320;1
+Raposos;315390;2
+Ribeirão das Neves;315460;42
+Ribeirão Vermelho;315470;1
+Rio Acima;315480;1
+Sabará;315670;35
+Salinas;315700;1
+Santa Luzia;315780;38
+Santana do Riacho;315900;5
+São Geraldo do Baixio;316165;1
+São Gonçalo do Rio Abaixo;316190;1
+São José da Lapa;316295;6
+São Roque de Minas;316430;1
+Sete Lagoas;316720;2
+Uberaba;317010;1
+Unaí;317040;6
+Vespasiano;317120;39
+Afonso Cláudio;320010;6
+Alfredo Chaves;320030;6
+Aracruz;320060;6
+Baixo Guandu;320080;1
+Barra de São Francisco;320090;2
+Brejetuba;320115;3
+Cariacica;320130;350
+Castelo;320140;5
+Colatina;320150;3
+Conceição do Castelo;320170;5
+Domingos Martins;320190;17
+Fundão;320220;9
+Guarapari;320240;16
+Ibatiba;320245;3
+Iconha;320260;1
+Itapemirim;320280;1
+Itarana;320290;2
+Iúna;320300;1
+Jaguaré;320305;1
+João Neiva;320313;3
+Laranja da Terra;320316;1
+Linhares;320320;2
+Marechal Floriano;320334;18
+Muniz Freire;320370;1
+Piúma;320420;2
+Santa Leopoldina;320450;6
+Santa Maria de Jetibá;320455;14
+Santa Teresa;320460;2
+São Gabriel da Palha;320470;1
+Serra;320500;397
+Sooretama;320501;1
+Venda Nova do Imigrante;320506;6
+Viana;320510;88
+Vila Valério;320517;2
+Vila Velha;320520;134
+Vitória;320530;776
+Angra dos Reis;330010;1
+Belford Roxo;330045;7
+Duque de Caxias;330170;20
+Itaguaí;330200;2
+Japeri;330227;4
+Mesquita;330285;6
+Nilópolis;330320;8
+Niterói;330330;6
+Nova Iguaçu;330350;41
+Petrópolis;330390;1
+Queimados;330414;3
+Rio de Janeiro;330455;1992
+São Gonçalo;330490;6
+São João de Meriti;330510;9
+Seropédica;330555;4
+Silva Jardim;330560;1
+Adolfo;350020;1
+Águas de Lindóia;350050;1
+Altinópolis;350100;4
+Americana;350160;3
+Analândia;350200;1
+Aparecida;350250;1
+Araçatuba;350280;2
+Araraquara;350320;1
+Arujá;350390;1
+Atibaia;350410;8
+Auriflama;350420;2
+Bady Bassitt;350460;15
+Bálsamo;350480;8
+Barretos;350550;2
+Barrinha;350560;2
+Bauru;350600;1
+Brodowski;350780;2
+Buritama;350810;1
+Cabreúva;350840;27
+Caieiras;350900;3
+Cajamar;350920;6
+Cajuru;350940;3
+Campinas;350950;860
+Campo Limpo Paulista;350960;43
+Cardoso;351070;1
+Cássia dos Coqueiros;351090;1
+Catanduva;351110;3
+Cedral;351130;3
+Cosmópolis;351280;3
+Cravinhos;351310;15
+Diadema;351380;795
+Divinolândia;351390;1
+Dourado;351430;1
+Elias Fausto;351490;1
+Florínia;351610;3
+Franca;351620;1
+Francisco Morato;351630;3
+Franco da Rocha;351640;2
+Guapiaçu;351750;13
+Guapiara;351760;1
+Guará;351770;1
+Guararapes;351820;1
+Guararema;351830;1
+Guariba;351860;3
+Guarujá;351870;1
+Guarulhos;351880;1215
+Guatapará;351885;1
+Herculândia;351900;1
+Holambra;351905;1
+Hortolândia;351907;20
+Ibirá;351940;3
+Icém;351980;6
+Indaiatuba;352050;2
+Ipiguá;352115;4
+Itapira;352260;2
+Itaquaquecetuba;352310;2
+Itatiba;352340;7
+Itu;352390;4
+Itupeva;352400;44
+Jaboticabal;352430;2
+Jaci;352450;2
+Jaguariúna;352470;6
+Jardinópolis;352510;20
+Jarinu;352520;16
+Jaú;352530;1
+Joanópolis;352550;1
+José Bonifácio;352570;2
+Jundiaí;352590;1299
+Louveira;352730;9
+Luís Antônio;352760;1
+Macaubal;352810;1
+Magda;352830;1
+Mairiporã;352850;2
+Martinópolis;352920;1
+Mauá;352940;57
+Mendonça;352950;2
+Mirassol;353030;19
+Mirassolândia;353040;8
+Mogi das Cruzes;353060;1
+Monte Alto;353130;2
+Monte Aprazível;353140;5
+Monte Mor;353180;4
+Morungaba;353200;6
+Neves Paulista;353250;2
+Nhandeara;353260;1
+Nipoã;353270;3
+Nova Aliança;353280;3
+Nova Granada;353300;12
+Nova Odessa;353340;1
+Novo Horizonte;353350;1
+Olímpia;353390;4
+Onda Verde;353400;5
+Orindiúva;353420;2
+Osasco;353440;1
+Palestina;353500;4
+Paulínia;353650;10
+Paulo de Faria;353660;1
+Pirassununga;353930;1
+Pitangueiras;353950;1
+Poloni;353990;1
+Pontal;354020;6
+Pontes Gestal;354030;1
+Porto Feliz;354060;2
+Potirendaba;354080;8
+Pradópolis;354090;2
+Ribeirão Pires;354330;3
+Ribeirão Preto;354340;591
+Rio Grande da Serra;354410;1
+Riolândia;354420;1
+Rosana;354425;1
+Saltinho;354515;1
+Santa Bárbara d'Oeste;354580;1
+Santa Cruz das Palmeiras;354630;1
+Santa Fé do Sul;354660;1
+Santa Rita do Passa Quatro;354750;1
+Santa Rosa de Viterbo;354760;5
+Santo André;354780;2236
+Santo Antônio da Alegria;354790;2
+Santo Antônio de Posse;354800;1
+Santos;354850;1
+São Bernardo do Campo;354870;93
+São Caetano do Sul;354880;11
+São Carlos;354890;2
+São José do Rio Preto;354980;1147
+São Paulo;355030;262
+São Sebastião;355070;1
+São Simão;355090;5
+São Vicente;355100;2
+Serrana;355150;14
+Sertãozinho;355170;1
+Severínia;355190;1
+Sorocaba;355220;2
+Sumaré;355240;11
+Suzano;355250;4
+Tanabi;355340;5
+Taubaté;355410;1
+Uchoa;355560;5
+União Paulista;355570;1
+Valinhos;355620;7
+Várzea Paulista;355650;95
+Vinhedo;355670;9
+Votorantim;355700;1
+Votuporanga;355710;3
+Agudos do Sul;410030;1
+Almirante Tamandaré;410040;48
+Araucária;410180;13
+Campina Grande do Sul;410400;5
+Campo Largo;410420;10
+Campo Magro;410425;10
+Colombo;410580;60
+Contenda;410620;1
+Curitiba;410690;1338
+Curiúva;410700;1
+Fazenda Rio Grande;410765;10
+General Carneiro;410850;1
+Guarapuava;410940;1
+Itaperuçu;411125;8
+Lapa;411320;3
+Mandirituba;411430;4
+Matinhos;411570;4
+Medianeira;411580;1
+Moreira Sales;411610;1
+Morretes;411620;1
+Pinhais;411915;61
+Piraquara;411950;33
+Ponta Grossa;411990;1
+Pontal do Paraná;411995;2
+Quatro Barras;412080;2
+Quitandinha;412120;1
+Rio Branco do Sul;412220;4
+Santa Fé;412340;1
+São José dos Pinhais;412550;47
+São Mateus do Sul;412560;2
+São Sebastião da Amoreira;412600;1
+Sapopema;412620;1
+Tijucas do Sul;412760;2
+Águas Mornas;420060;1
+Antônio Carlos;420120;1
+Araranguá;420140;1
+Balneário Camboriú;420200;3
+Balneário Piçarras;421280;1
+Bandeirante;420208;1
+Barra Velha;420210;1
+Biguaçu;420230;10
+Blumenau;420240;2
+Bom Jardim da Serra;420250;1
+Braço do Norte;420280;1
+Camboriú;420320;1
+Canelinha;420370;1
+Criciúma;420460;1
+Florianópolis;420540;1796
+Forquilhinha;420545;1
+Garopaba;420570;3
+Governador Celso Ramos;420600;2
+Guabiruba;420630;1
+Imbituba;420730;1
+Irineópolis;420790;1
+Itajaí;420820;1
+Itapoá;420845;1
+Jaraguá do Sul;420890;2
+Joinville;420910;2
+Lacerdópolis;420920;1
+Lages;420930;1
+Laguna;420940;1
+Major Gercino;421020;1
+Mirim Doce;421085;1
+Nova Trento;421150;1
+Palhoça;421190;21
+Paulo Lopes;421230;3
+Pinhalzinho;421290;1
+Porto Belo;421350;1
+Presidente Getúlio;421400;1
+Rio do Sul;421480;1
+Salete;421530;1
+Santa Rosa do Sul;421565;1
+Santo Amaro da Imperatriz;421570;7
+São José;421660;44
+Schroeder;421740;1
+Sombrio;421770;1
+Taió;421780;1
+Tijucas;421800;4
+Trombudo Central;421860;1
+Videira;421930;2
+Vitor Meireles;421935;1
+Xaxim;421970;1
+Alvorada;430060;129
+Amaral Ferrador;430063;1
+Arroio dos Ratos;430110;2
+Barão do Triunfo;430175;2
+Barra do Ribeiro;430190;3
+Butiá;430270;3
+Cachoeirinha;430310;31
+Canoas;430460;29
+Capão da Canoa;430463;1
+Capivari do Sul;430467;1
+Caxias do Sul;430510;1
+Cerro Grande do Sul;430517;2
+Charqueadas;430535;4
+Cidreira;430545;1
+Dois Irmãos;430640;1
+Eldorado do Sul;430676;8
+Encantado;430680;1
+Engenho Velho;430692;1
+Estância Velha;430760;1
+Esteio;430770;1
+Glorinha;430905;1
+Gravataí;430920;30
+Guaíba;430930;9
+Imbé;431033;2
+Itati;431065;1
+Lindolfo Collor;431162;1
+Mampituba;431173;1
+Mariana Pimentel;431198;1
+Minas do Leão;431225;5
+Nova Santa Rita;431337;2
+Novo Hamburgo;431340;3
+Palmares do Sul;431365;1
+Pinhal;431445;1
+Porto Alegre;431490;1449
+Presidente Lucena;431514;1
+Rolante;431600;1
+Santo Antônio da Patrulha;431760;2
+São Jerônimo;431840;1
+São Leopoldo;431870;4
+São Sebastião do Caí;431950;1
+Sapiranga;431990;2
+Sapucaia do Sul;432000;2
+Sertão Santana;432055;2
+Tabaí;432085;1
+Tapes;432110;3
+Taquara;432120;1
+Torres;432150;1
+Tramandaí;432160;1
+Três Cachoeiras;432166;1
+Triunfo;432200;2
+Vacaria;432250;1
+Viamão;432300;145
+Água Clara;500020;1
+Alcinópolis;500025;2
+Aparecida do Taboado;500100;1
+Aquidauana;500110;1
+Bandeirantes;500150;1
+Bela Vista;500210;3
+Bonito;500220;1
+Brasilândia;500230;1
+Camapuã;500260;3
+Campo Grande;500270;1871
+Chapadão do Sul;500295;3
+Corguinho;500310;1
+Corumbá;500320;1
+Costa Rica;500325;1
+Coxim;500330;1
+Jaraguari;500490;4
+Jardim;500500;2
+Maracaju;500540;1
+Miranda;500560;2
+Nioaque;500580;1
+Nova Alvorada do Sul;500600;1
+Ribas do Rio Pardo;500710;4
+Rio Negro;500730;4
+Rio Verde de Mato Grosso;500740;3
+Rochedo;500750;7
+São Gabriel do Oeste;500769;4
+Sidrolândia;500790;5
+Sonora;500793;1
+Terenos;500800;12
+Acorizal;510010;4
+Alta Floresta;510025;1
+Brasnorte;510190;1
+Campo Verde;510267;1
+Chapada dos Guimarães;510300;11
+Cláudia;510305;1
+Confresa;510335;2
+Cuiabá;510340;587
+Guarantã do Norte;510410;1
+Jangada;510490;1
+Juara;510510;1
+Juína;510515;1
+Lucas do Rio Verde;510525;1
+Nossa Senhora do Livramento;510610;1
+Nova Brasilândia;510620;1
+Nova Olímpia;510623;1
+Planalto da Serra;510645;1
+Pontal do Araguaia;510665;1
+Primavera do Leste;510704;1
+Ribeirão Cascalheira;510718;1
+Rio Branco;510720;1
+Santo Antônio do Leverger;510780;10
+Sapezal;510787;1
+Várzea Grande;510840;47
+Vila Bela da Santíssima Trindade;510550;1
+Abadia de Goiás;520005;9
+Águas Lindas de Goiás;520025;35
+Alexânia;520030;2
+Americano do Brasil;520085;1
+Anicuns;520130;1
+Aparecida de Goiânia;520140;72
+Araçu;520160;1
+Aragoiânia;520180;1
+Aurilândia;520260;2
+Avelinópolis;520280;1
+Baliza;520310;2
+Bela Vista de Goiás;520330;3
+Bonfinópolis;520355;1
+Buriti Alegre;520390;1
+Cabeceiras;520400;2
+Cachoeira Alta;520410;1
+Caiapônia;520440;1
+Campos Belos;520490;2
+Catalão;520510;2
+Caturaí;520520;3
+Cidade Ocidental;520549;9
+Cocalzinho de Goiás;520551;6
+Córrego do Ouro;520570;1
+Corumbá de Goiás;520580;1
+Cristalina;520620;4
+Cromínia;520650;1
+Edealina;520735;1
+Edéia;520740;3
+Flores de Goiás;520790;4
+Formosa;520800;7
+Goianésia;520860;1
+Goiânia;520870;861
+Goianira;520880;3
+Goiás;520890;54
+Goiatuba;520910;1
+Guapó;520920;7
+Guaraíta;520929;1
+Heitoraí;520960;1
+Hidrolândia;520970;2
+Inhumas;521000;3
+Iporá;521020;1
+Itaberaí;521040;5
+Itaguaru;521060;1
+Itapirapuã;521100;1
+Itauçu;521140;1
+Jandaia;521170;1
+Jataí;521190;3
+Luziânia;521250;16
+Minaçu;521308;1
+Montes Claros de Goiás;521370;1
+Morrinhos;521380;4
+Mozarlândia;521400;1
+Nerópolis;521450;1
+Niquelândia;521460;1
+Nova Crixás;521483;1
+Nova Veneza;521500;4
+Novo Gama;521523;7
+Padre Bernardo;521560;3
+Palestina de Goiás;521565;2
+Palminópolis;521590;1
+Piranhas;521720;1
+Pires do Rio;521740;3
+Planaltina;521760;5
+Pontalina;521770;2
+Porangatu;521800;1
+Sanclerlândia;521900;1
+Santa Bárbara de Goiás;521910;2
+Santo Antônio de Goiás;521973;3
+Santo Antônio do Descoberto;521975;5
+São João d'Aliança;522000;1
+São Luís de Montes Belos;522010;2
+Senador Canedo;522045;9
+Trindade;522140;13
+Turvânia;522150;1
+Uruaçu;522160;1
+Urutaí;522180;1
+Valparaíso de Goiás;522185;8
+Varjão;522190;4
+Vicentinópolis;522205;1
+Vila Boa;522220;1
+Brasília;530010;1626
+Ignorado ou exterior;000000;297
+;Total;60459
