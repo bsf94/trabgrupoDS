@@ -47,6 +47,8 @@ Após a organização dos dados, com o dataframe DSP_data, diversos passos de an
 | PH_Ortopedicas  | Número de procedimentos hospitalares relacionados a ortopedia | Numérico     |
 | AcidTransito   | Número de acidentes de trânsito no município               | Numérico     |
 
+## Repositório
 
+Esse repositório contém 3 branches: main (com os dados em .csv), apresentação (com o arquivo da apresentação em pdf) e código (com o arquivo em .ipynb).
 
-
+Projeto criado por Brenda Farias e Fabricio Leal, para a disciplina de Introdução à Data Science (ADM01007) da Universidade Federal do Rio Grande do Sul.
