@@ -22,6 +22,18 @@ A primeira parte do projeto utiliza técnicas de coleta de dados, pré-processam
 
 Antes de realizar a análise, os dados coletados passaram por um processo de pré-processamento para garantir sua qualidade e consistência. Nessa etapa, foram tratados valores ausentes, removidos duplicatas e os dados foram transformados em um formato adequado para análise. Foram realizadas manipulações e engenharia de recursos, bem como normalização dos dados, quando necessário.
 
+Os dados foram coletados dos seguintes sites:
+* Ministério da Saúde (TABNET): 
+Disponivel em: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
+
+* Ministério da Fazenda: 
+Disponivel em: https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj 
+
+* Agência Nacional de Saúde Suplementar: 
+Disponivel em: https://www.ans.gov.br/perfil-do-setor/dados-gerais
+
+* IBGE https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html
+
 ## Análise exploratória
 
 Após a organização dos dados, com o dataframe DSP_data, diversos passos de análise exploratória foram realizados.
@@ -46,9 +58,14 @@ Após a organização dos dados, com o dataframe DSP_data, diversos passos de an
 | PH_Articulacoes | Número de procedimentos hospitalares relacionados a articulações | Numérico     |
 | PH_Ortopedicas  | Número de procedimentos hospitalares relacionados a ortopedia | Numérico     |
 | AcidTransito   | Número de acidentes de trânsito no município               | Numérico     |
+| PIB/capita   | Pib por capita do município               | Numérico     |
+| PIB   | PIB do município               | Numérico     |
+| VABServiços   | Valor adicionado bruto de serviços               | Numérico     |
+
+
 
 ## Repositório
 
-Esse repositório contém 3 branches: main (com os dados em .csv), apresentação (com o arquivo da apresentação em pdf) e código (com o arquivo em .ipynb). Os arquivos em .csv são resultados da limpeza e pré-processamento de dados coletados.
+Esse repositório contém 3 branches: main (com os dados em .csv), apresentação (com o arquivo da apresentação em pdf) e código (com o arquivo em .ipynb). O repositório possui as bases de dados originais, assim como dataframes criados após limpeza de dados (df_....csv).
 
 Projeto criado por Brenda Farias e Fabricio Leal, para a disciplina de Introdução à Data Science (ADM01007) da Universidade Federal do Rio Grande do Sul.
